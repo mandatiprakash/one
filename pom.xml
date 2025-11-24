@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://98.92.152.65:8081/repository/supriya/</url>
+		    <url>http://3.86.40.171:8081/repository/supriya/</url>
 		</repository>
   	</distributionManagement>
 	
