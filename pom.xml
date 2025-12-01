@@ -7,7 +7,8 @@
 	<version>8.7.4</version>
 	<name>Java Home myweb</name>
 	<url>http://maven.apache.org</url>
-	//supriya kaku
+	<!-- supriya kaku -->
+
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
 		<sonar.host.url>http://18.181.164.81:9000/</sonar.host.url>
