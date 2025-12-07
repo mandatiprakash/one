@@ -9,6 +9,7 @@
 	<url>http://maven.apache.org</url>
 	<!-- supriya kaku -->
 	<!-- supriya kaku -->
+	<!-- supriya kaku1 -->
 
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
